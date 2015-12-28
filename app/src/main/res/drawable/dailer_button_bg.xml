@@ -6,6 +6,6 @@
         android:drawable="@drawable/dailer_button_selected" />
     <item
         android:state_pressed="true"
-        android:drawable="@drawable/dailer_button_selected" />
+        android:drawable="@drawable/dailer_button_normal" />
 
 </selector>

@@ -18,7 +18,7 @@ android:layout_marginTop="20dp">
         android:typeface="sans"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="1"/>
     <Button
@@ -31,7 +31,7 @@ android:layout_marginTop="20dp">
         android:typeface="sans"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="2"/>
     <Button
@@ -44,7 +44,7 @@ android:layout_marginTop="20dp">
         android:id="@+id/btn3"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="3"/>
 </TableRow>
@@ -62,7 +62,7 @@ android:layout_marginTop="20dp">
         android:typeface="sans"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="4"/>
     <Button
@@ -75,7 +75,7 @@ android:layout_marginTop="20dp">
         android:id="@+id/btn5"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="5"/>
     <Button
@@ -88,7 +88,7 @@ android:layout_marginTop="20dp">
         android:textStyle="normal"
         android:id="@+id/btn6"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="6"/>
 </TableRow>
@@ -106,7 +106,8 @@ android:layout_marginTop="20dp">
         android:id="@+id/btn7"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
+        android:textColorHighlight="#e70e0e"
         android:background="@drawable/dailer_button_bg"
         android:text="7"/>
     <Button
@@ -119,7 +120,7 @@ android:layout_marginTop="20dp">
         android:id="@+id/btn8"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="8"/>
     <Button
@@ -132,7 +133,7 @@ android:layout_marginTop="20dp">
         android:textStyle="normal"
         android:id="@+id/btn9"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="9"/>
 </TableRow>
@@ -150,7 +151,7 @@ android:layout_marginTop="20dp">
         android:textStyle="normal"
         android:id="@+id/btnPlus"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="+"/>
     <Button
@@ -163,7 +164,7 @@ android:layout_marginTop="20dp">
         android:typeface="sans"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="0"/>
     <Button
@@ -176,7 +177,7 @@ android:layout_marginTop="20dp">
         android:typeface="sans"
         android:textStyle="normal"
         android:textSize="@dimen/dialerButtonTextSize"
-        android:textColor="@color/buttonBgColour"
+        android:textColor="@drawable/text_color"
         android:background="@drawable/dailer_button_bg"
         android:text="#"/>
 </TableRow>
